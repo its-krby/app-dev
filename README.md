@@ -3,8 +3,8 @@ My first repository
 ## ***Harry Potter***
 
 A fantasy film series based on the novels written by *J.K. Rowling* 
-|---|---|
-|The series has 8 movies in total.|
+
+The series has 8 movies in total.
 
 1. Harry Potter and the Philosopher's Stone (2001)
 2. Harry Potter and the Chamber of Secrets (2002)
